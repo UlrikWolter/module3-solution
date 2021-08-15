@@ -40,3 +40,8 @@ h1 {
 #beeftext{
   margin-bottom: 15px;
 }
+
+#home-tiles {
+  margin-right: 10px;
+  margin-left: 10px;
+}
