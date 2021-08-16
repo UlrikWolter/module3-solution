@@ -1,0 +1,68 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/**HEADER **/
+#header-nav {
+  background-color: lightgray;
+  border-radius: 0;
+  border: 0;
+}
+
+h1{
+  text-align: center;
+}
+
+
+#background {
+  background-color: lightgray;
+
+}
+
+#chicken-tile{
+  text-align: center;
+}
+
+#beef-tile{
+  text-align: center;
+}
+
+#sushi-tile{
+  text-align: center;
+}
+
+#chickentext{
+  margin-bottom: 15px;
+}
+
+#beeftext{
+  margin-bottom: 15px;
+}
+
+#home-tiles {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list{
+  text-align: center;
+  background-color: skyblue;
+  border: 10px black
+}
+
+
+#.nav-list.public.Beef{
+
+  border: 10px black; 
+}
