@@ -7,14 +7,15 @@ body {
 
 /**HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: lightgray;
   border-radius: 0;
   border: 0;
 }
 
-h1 {
+h1{
   text-align: center;
 }
+
 
 #background {
   background-color: lightgray;
@@ -39,4 +40,29 @@ h1 {
 
 #beeftext{
   margin-bottom: 15px;
+}
+
+#home-tiles {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list{
+  text-align: center;
+  background-color: skyblue;
+  border: 10px black
+}
+
+
+#.nav-list.public.Beef{
+
+  border: 10px black; 
 }
